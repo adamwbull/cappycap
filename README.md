@@ -7,7 +7,7 @@
 
 - Ask me about **react, react native, and nodejs** 💬  
 
-- How to reach me [linkedin][LinkedIn] 📫  
+- How to reach me [LinkedIn][LinkedIn] 📫  
 
 - Fun fact: **My favorite TV show is Psych** ⚡ 
 <img src="https://media.tenor.com/images/521032b84b171a0dbaafdadec68d1b78/tenor.gif" width="200"/>
@@ -41,4 +41,4 @@
 ![](https://komarev.com/ghpvc/?username=cappycap)
 <p align="center"> <img src="https://github-readme-stats-five-lyart.vercel.app/api?username=cappycap&show_icons=true" alt="cappycap" /> </p>
 
-[linkedin]: https://linkedin.com/in/khantosif1993
+[LinkedIn]: https://linkedin.com/in/khantosif1993
