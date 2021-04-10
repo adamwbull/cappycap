@@ -41,4 +41,4 @@
 ![](https://komarev.com/ghpvc/?username=cappycap)
 <p align="center"> <img src="https://github-readme-stats-five-lyart.vercel.app/api?username=cappycap&show_icons=true" alt="cappycap" /> </p>
 
-[LinkedIn]: https://linkedin.com/in/khantosif1993
+[LinkedIn]: https://linkedin.com/in/adamwbull
