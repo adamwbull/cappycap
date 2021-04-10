@@ -1,5 +1,5 @@
-<h1 align="center">Welcome to my home. <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> </h1>
-<h3 align="center">Feel free to stay awhile!</h3>
+<h1 align="center">Welcome to my GitHub! <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> </h1>
+<h3 align="center">I hope you enjoy your stay.</h3>
 
 <img align="right" src="https://i.imgur.com/gbLxcrW.png" width="200 " height="200" />
 
