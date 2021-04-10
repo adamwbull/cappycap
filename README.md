@@ -5,9 +5,9 @@
 
 - I’m working on my passion project **CoachSync**, and **MentoringApp**, a research project. 🔭 
 
-- Ask me about **react, react native, and nodejs** 💬  
+- Ask me about **react, react native, and nodejs**! I'm always willing to help. 💬  
 
-- How to reach me [LinkedIn][LinkedIn] 📫  
+- How to reach me: [LinkedIn][LinkedIn] 📫  
 
 - Fun fact: **My favorite TV show is Psych** ⚡ 
 <img src="https://media.tenor.com/images/521032b84b171a0dbaafdadec68d1b78/tenor.gif" width="200"/>
