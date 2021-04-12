@@ -39,6 +39,6 @@
 
 ### Github Stats:
 ![](https://komarev.com/ghpvc/?username=cappycap)
-<p align="center"> <img src="https://github-readme-stats-five-lyart.vercel.app/api?username=cappycap&show_icons=true" alt="cappycap" /> </p>
+<p align="center"> <img src="https://github-readme-stats-five-lyart.vercel.app/api?username=cappycap&show_icons=true&hide=contribs&count_private=true&theme=dark" alt="cappycap" /> </p>
 
 [LinkedIn]: https://linkedin.com/in/adamwbull
