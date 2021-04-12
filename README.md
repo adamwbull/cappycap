@@ -1,7 +1,7 @@
 <h1 align="center">Welcome to my GitHub! <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> </h1>
 <h3 align="center">I hope you enjoy your stay.</h3>
 
-<img align="right" src="https://i.imgur.com/gbLxcrW.png" width="200 " height="200" />
+<img align="right" src="https://i.imgur.com/bEkxsj3.png" width="200 " height="200" />
 
 - I’m working on my passion project **CoachSync**, and **MentoringApp**, a research project. 🔭 
 
@@ -37,8 +37,9 @@
 </p>
 
 
-### Github Stats:
-![](https://komarev.com/ghpvc/?username=cappycap)
-<p align="center"> <img src="https://github-readme-stats-five-lyart.vercel.app/api?username=cappycap&show_icons=true&hide=contribs&count_private=true&theme=dark" alt="cappycap" /> </p>
+### Fun Statistics:
+<p align="left"> <img src="https://github-readme-stats-five-lyart.vercel.app/api?username=cappycap&show_icons=true&hide=contribs&count_private=true&theme=dark" alt="cappycap" /> </p>
+
+![](https://komarev.com/ghpvc/?username=cappycap&color=2ecc71&label=Total+Profile+Views)
 
 [LinkedIn]: https://linkedin.com/in/adamwbull
