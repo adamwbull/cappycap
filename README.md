@@ -9,7 +9,7 @@
 
 - How to reach me: [LinkedIn][LinkedIn] 📫  
 
-- Fun fact: **My favorite TV show is Psych** ⚡ 
+- Fun fact: **My favorite TV show is Psych** 🍍
 <img src="https://media.tenor.com/images/521032b84b171a0dbaafdadec68d1b78/tenor.gif" width="200"/>
 
 
