@@ -38,7 +38,8 @@
 
 
 ### Fun Statistics:
-<p align="left"> <img src="https://github-readme-stats-five-lyart.vercel.app/api?username=cappycap&show_icons=true&hide=contribs&count_private=true&theme=dark" alt="cappycap" /> </p>
+![](https://raw.githubusercontent.com/cappycap/github-stats/e9cdd27348954dc5a5b124276e918af60793b1be/generated/languages.svg)
+![](https://raw.githubusercontent.com/cappycap/github-stats/e9cdd27348954dc5a5b124276e918af60793b1be/generated/overview.svg)
 
 ![](https://komarev.com/ghpvc/?username=cappycap&color=2ecc71&label=Total+Profile+Views)
 
