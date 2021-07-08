@@ -38,8 +38,8 @@
 
 
 ### Fun Statistics:
-![](https://raw.githubusercontent.com/cappycap/github-stats/e9cdd27348954dc5a5b124276e918af60793b1be/generated/languages.svg)
 ![](https://raw.githubusercontent.com/cappycap/github-stats/e9cdd27348954dc5a5b124276e918af60793b1be/generated/overview.svg)
+![](https://raw.githubusercontent.com/cappycap/github-stats/e9cdd27348954dc5a5b124276e918af60793b1be/generated/languages.svg)
 
 ![](https://komarev.com/ghpvc/?username=cappycap&color=2ecc71&label=Total+Profile+Views)
 
