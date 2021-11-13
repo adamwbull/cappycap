@@ -15,6 +15,7 @@
 
 ### Things I work with:
 <p>
+  <img alt="web3" src="https://img.shields.io/badge/-Web3.js-F16822?style=flat-square&logo=web3.js&logoColor=white" />
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
   <img alt="React Native" src="https://img.shields.io/badge/-React Native-45b8d8?style=flat-square&logo=react&logoColor=white" />
   <img alt="Google Maps" src="https://img.shields.io/badge/-Google Maps-4285F4?style=flat-square&logo=Google-maps&logoColor=white" />
