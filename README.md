@@ -3,9 +3,9 @@
 
 <img align="right" src="https://i.imgur.com/bEkxsj3.png" width="200 " height="200" />
 
-- I’m working on my passion project **CoachSync**, and **MentoringApp**, a research project. 🔭 
+- I’m contributing to a better web for everyone 🔭 
 
-- Ask me about **react, react native, and nodejs**! I'm always willing to help. 💬  
+- Ask me about **web3, react, react native, and nodejs**! I'm always willing to help. 💬  
 
 - How to reach me: [LinkedIn][LinkedIn] 📫  
 
