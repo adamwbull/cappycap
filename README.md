@@ -5,8 +5,6 @@
 
 - Graduate student studying machine learning, full stack development, game development, game theory, and so much more!
 
-- President of Bulltech LLC, providing several website services for full stack development, mostly making business pages or the occasional game.
-
 - How to reach me: [LinkedIn][LinkedIn] 📫  
 
 ### Fun Statistics:
